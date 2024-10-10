@@ -1,0 +1,130 @@
+.navbar{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    margin-top: 60px;
+    background-color: #FBFCFE;
+    padding-top: 30px;
+    margin-top: 30px;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.about_nav{
+    text-decoration: none;
+    color: #000;
+    margin-right: 40px;
+}
+.testi_nav{
+    text-decoration: none;
+    color: #000;
+}
+.get_nav{
+    text-decoration: none;
+    color: #000;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #F6C042;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+}
+.headerflex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+body{
+    
+}
+
+.h1_span{
+    color: red;
+    text-decoration: underline;
+}
+.intro{
+    font-size: 65px;
+    padding-left: 220px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 100px;
+}
+.list_benfits{
+    margin-bottom: 90px;
+    margin-left: 260px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.list_span1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+.list_span2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.list_span3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.list_span4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.list_span5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.list_span6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.para_1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-left: 80px;
+    background-color: #D0E0E3;
+    padding-left: 20px;
+    margin-left: 150px;
+    margin-right: 170px;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+.para_span{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.exemple_group{
+    margin-left: 150px;
+}
+.exemple_1{
+    height: 450px;
+    width: 600px;
+}
+.exemple_2{
+    height: 450px;
+    width: 600px;
+}
+.intro_s1{
+    margin-left: 110px;
+}
+.intro_s2{
+    margin-left: 10px;
+}
+.intro_s4{
+    margin-left: 60px;
+}
+.intro_s5{
+    margin-left: 120px;
+}
